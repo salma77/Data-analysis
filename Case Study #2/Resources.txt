@@ -1,2 +1,18 @@
 Data sets:
 https://www.fueleconomy.gov/feg/download.shtml/
+
+Pandas drop function:
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.drop.html
+
+Pandas rename function:
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.rename.html
+
+Extract int from string in Pandas:
+https://stackoverflow.com/questions/35376387/extract-int-from-string-in-pandas
+
+Pandas apply function:
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.apply.html
+
+Pandas merges:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html
+
