@@ -1,0 +1,20 @@
+Data set:
+https://archive.ics.uci.edu/ml/datasets/Wine+Quality
+
+Rename function in pandas:
+https://stackoverflow.com/questions/20868394/changing-a-specific-column-name-in-pandas-dataframe
+
+Pandas Groupby function:
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html
+
+Pandas Cut function:
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.cut.html
+
+Pandas Query function:
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.query.html
+
+Matplotlib bar function:
+https://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.bar
+
+Seaborn example gallery:
+https://seaborn.pydata.org/examples/index.html
