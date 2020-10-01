@@ -1,0 +1,17 @@
+Data set:
+https://www.kaggle.com/udacity/armenian-online-job-postings
+
+An article about context managers in python:
+https://jeffknupp.com/blog/2016/03/07/python-with-context-managers/
+
+Hadley Wickham's article about tidy data:
+https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html
+
+Jean-Nicholas Hould's article about tidy data:
+http://www.jeannicholashould.com/tidy-data-in-python.html
+
+Pandas value_counts function:
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html
+
+Another useful article:
+https://datacarpentry.org/python-ecology-lesson/03-index-slice-subset/
