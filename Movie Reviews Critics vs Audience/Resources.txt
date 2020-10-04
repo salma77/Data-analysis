@@ -1,0 +1,23 @@
+Dataset:
+https://d17h27t6h515a5.cloudfront.net/topher/2017/September/59ca594d_bestofrt/bestofrt.tsv
+
+Data scraped from:
+https://www.rottentomatoes.com/top/bestofrt/
+
+Beautiful Soup Documentation:
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/#find-all
+
+Visualizing goal:
+https://public.tableau.com/profile/david.venturi#!/vizhome/BestofRottenTomatoesCriticvs_AudienceScores/BestofRottenTomatoesCriticvs_AudienceScores
+
+Pandas Dataframe function:
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html
+
+How to build a dataframe:
+https://stackoverflow.com/questions/28056171/how-to-build-and-fill-pandas-dataframe-from-for-loop/28058264#28058264
+
+Flat files:
+https://www.cac.cornell.edu/education/Training/DataAnalysis/RelationalDatabases.pdf
+
+
+
