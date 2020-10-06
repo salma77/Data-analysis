@@ -28,5 +28,14 @@ https://kunststube.net/encoding/
 Glob documentation:
 https://docs.python.org/3/library/glob.html
 
+Mediawiki API:
+https://www.mediawiki.org/wiki/API:Tutorial
 
+wptools library:
+https://github.com/siznax/wptools
 
+JSON library:
+https://docs.python-guide.org/scenarios/json/
+
+SQLAlchemy:
+https://www.sqlalchemy.org/
