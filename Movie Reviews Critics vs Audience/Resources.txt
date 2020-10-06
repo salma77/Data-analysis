@@ -19,5 +19,14 @@ https://stackoverflow.com/questions/28056171/how-to-build-and-fill-pandas-datafr
 Flat files:
 https://www.cac.cornell.edu/education/Training/DataAnalysis/RelationalDatabases.pdf
 
+Useful article about encoding:
+https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
+
+Another article about encoding:
+https://kunststube.net/encoding/
+
+Glob documentation:
+https://docs.python.org/3/library/glob.html
+
 
 
